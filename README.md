@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently on my journey to become a Full Stack Developer as a new bootcamper with School of Code
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/steven-cheung-8b094ba5/ 
+- 😄 Pronouns: he/him
+
+
+
+
 <!--
 **StevenCK1/StevenCK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
