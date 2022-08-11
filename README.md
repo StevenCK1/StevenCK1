@@ -1,10 +1,44 @@
 ### Hi there 👋
 
 - 🔭 I’m currently on my journey to become a Full Stack Developer as a new bootcamper with School of Code
-- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/steven-cheung-8b094ba5/ 
-- 😄 Pronouns: he/him
 
 
+<h3 align="left">My Links:</h3>
+
+<a href="https://twitter.com/steven_c2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="steven_c2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/steven-cheung321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-cheung321" height="30" width="40" /></a>
+
+
+---
+
+<h3 align="left">Languages:</h3>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+
+
+<h3 align:"left" id="libraries">Libraries and Frameworks:</h3>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
+<img style="filter: invert(100%);"  src="https://github.com/skandog/assets/blob/main/express-white.svg" alt="xd" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="xd" width="40" height="40"/>&nbsp;
+<img style="filter: invert(100%);" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="xd" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
+
+
+
+---
+
+
+<h3 align:"left" id="libraries">My Stats:</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StevenCK1&theme=cobalt)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenCK1&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="StevenCK1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenCK1&show_icons=true&locale=en&theme=cobalt" alt="StevenCK1" /></p>
 
 
 <!--
