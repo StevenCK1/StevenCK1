@@ -17,9 +17,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 
-
-<h3 align:"left" id="libraries">Libraries and Frameworks:</h3>
+<h3 align:"left" id="libraries">Tools, Libraries and Frameworks:</h3>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
 <img style="filter: invert(100%);"  src="https://github.com/skandog/assets/blob/main/express-white.svg" alt="xd" width="40" height="40"/>&nbsp;
@@ -28,8 +28,10 @@
 <img style="filter: invert(100%);" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="xd" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
-
-
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
 
 ---
 
@@ -38,6 +40,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StevenCK1&theme=cobalt)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenCK1&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="StevenCK1" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenCK1&show_icons=true&locale=en&theme=cobalt" alt="StevenCK1" /></p>
 
 
