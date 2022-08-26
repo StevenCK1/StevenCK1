@@ -1,9 +1,24 @@
 ### Hi there 👋
 
-- 🔭 I’m currently on my journey to become a Full Stack Developer as a new bootcamper with School of Code
+- 🔭 I’ve recently graduated from the School of Code 16 week bootcamp to become a a full stack developer!
+
+Here's a couple of projects I've worked on during the bootcamp:
+- 4 Weeks project - Surch
+
+  - [Front End Code](https://github.com/SchoolOfCode/final-project_front-end-surch)
+  - [Back End Code](https://github.com/SchoolOfCode/final-project_back-end-surch)
+  - [Deployed here](https://reconnect-surch.netlify.app/)
 
 
-<h3 align="left">My Links:</h3>
+- Week 9 project - Team.js 
+
+  - [Front End Code](https://github.com/SchoolOfCode/w9_frontend-project-team-js)
+  - [Back End Code](https://github.com/SchoolOfCode/w9_backend-project-team-js)
+  - [Deployed here](https://backpack-frontend.vercel.app/)
+
+
+<h3 align="left">Want to collaborate or just have a chat?
+Here are my Links:</h3>
 
 <a href="https://twitter.com/steven_c2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="steven_c2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/steven-cheung321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-cheung321" height="30" width="40" /></a>
