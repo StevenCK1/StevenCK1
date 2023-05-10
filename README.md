@@ -1,27 +1,12 @@
 ### Hi there, I'm Steven 😁
 
-A former accountant looking to switch from spreadsheets to Git!
+A former accountant who's swithced from spreadsheets to Git!
 
 In August 2022, I completed a full-stack JavaScript development bootcamp run by the brilliant [School of Code](https://www.schoolofcode.co.uk/) 👨‍🎓
 
-I'm now seeking job opportunities as a full-stack developer 👨‍💻
+I'm currently working as a Software Developer at [Brokit](https://www.brokit.co.uk/) 👨‍💻
 
 Here's the link to my [portfolio](https://steven-cheung.netlify.app/), feel free to leave me some feedback on what I can improve! 
-
-Here's a couple of projects I've worked on during the bootcamp:
-- 4 Weeks project - Surch
-
-  - [Front End Code](https://github.com/SchoolOfCode/final-project_front-end-surch)
-  - [Back End Code](https://github.com/SchoolOfCode/final-project_back-end-surch)
-  - [Deployed here](https://reconnect-surch.netlify.app/)
-
-
-- Week 9 project - Team.js 
-
-  - [Front End Code](https://github.com/SchoolOfCode/w9_frontend-project-team-js)
-  - [Back End Code](https://github.com/SchoolOfCode/w9_backend-project-team-js)
-  - [Deployed here](https://backpack-frontend.vercel.app/)
-
 
 <h3 align="left">Want to collaborate or just have a chat?
 Here are my Links:</h3>
