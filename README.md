@@ -64,7 +64,7 @@ Here are my Links:</h3>
 <h3 align:"left" id="libraries">My Stats:</h3>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StevenCK1&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.vercel.app/api?user=StevenCK1&theme=cobalt)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenCK1&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="StevenCK1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenCK1&show_icons=true&locale=en&theme=cobalt" alt="StevenCK1" /></p>
