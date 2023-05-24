@@ -64,10 +64,9 @@ Here are my Links:</h3>
 <h3 align:"left" id="libraries">My Stats:</h3>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.vercel.app/api?user=StevenCK1&theme=cobalt)](https://git.io/streak-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenCK1&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="StevenCK1" /></p>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenCK1&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenCK1&show_icons=true&locale=en&theme=cobalt" alt="StevenCK1" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenCK1&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
