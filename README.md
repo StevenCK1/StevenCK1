@@ -4,7 +4,7 @@ A former accountant who's swithced from spreadsheets to Git!
 
 In August 2022, I completed a full-stack JavaScript development bootcamp run by the brilliant [School of Code](https://www.schoolofcode.co.uk/) 👨‍🎓
 
-I'm currently working as a Software Developer at [Brokit](https://www.brokit.co.uk/) 👨‍💻
+I'm currently working as a Software Developer at [Cz](https://www.czarnikow.com/) 👨‍💻
 
 Here's the link to my [portfolio](https://steven-cheung.netlify.app/), feel free to leave me some feedback on what I can improve! 
 
